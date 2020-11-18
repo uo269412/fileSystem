@@ -1,0 +1,95 @@
+Facilitar/mejorar la funcionalidad de las activiaddades además de la gestión de las instalaciones
+	Administracion planifica actividades (dar facilidad a esta) [Planificaciones semanales, varios días a la semana, distintas instalaciones a distintas horas] 
+	Se indica fecha inicio, numero repeticiones, numero semanas) repeticiones diarias, que se repiten todos los días de la semana (todos los días, de lunes a domingo, que se repitan cada 15 días, 
+	de forma mensual, el primer sábado de cada mes..)
+	
+	
+	Administracion controla que cuando quieras planificar una actividad en un hueco esta instalación este libre (no puede estar ocupada por otra actividad ni por otro alquiler) 
+	Los conflictos tiene que resolverlos el administrador, mostrando toda la información posible para que tome decisiones (podrá cambiar horas, cancelar alquileres...) 
+	El sistema no hará nada hasta que el administrador no tome ninguna decisiones
+	
+	
+	Cancelar actividades de un día concreto, a partir de una fecha especial, de una actividad en concreto, las que se imparten en una determinada instalaciones
+	
+	
+	Cierre indefinido de una instalacion entre dias, fechas, solo cerrar para alquileres o actividades
+	
+	
+	Asignar recursos a instalaciones a través del sistema, añadiendo el número y el tipo de recursos deseados
+	
+	
+Como administración quiero planificar actividades para que los clientes acudan a ellas con cierta flexibilidad
+	Se le ofrecerá a adminstración poder planificar actividades con flexibilidad en cuanto a instalaciones, repetición de días a lo largo de la semana y la hora de cada uno de los alquileres.
+	Administración podrá decidir si quiere planificar una sola actividad en un día o quiere planificar una actividad para que se repita ciertos días de la semana hasta la fecha indicada.
+	También podrá decidir la hora de inicio y la hora de fin de estas actividades, de forma conjunta (Todas empiezan a las 6 y acaban a las 8) o de forma individual.
+	Otra funcionalidad añadida será el poder decidir si estas actividades se harán todas en la misma instalación o la instalación será distinta para cada actividad.
+	
+Como administración quiero poder gestionar los conflictos que puedan surgir a la hora de planificar una actividad para resolverlos de forma manual
+	Después de planificar las actividades, en caso de que hubiera algún conflicto, se abriría una ventana mostrando información sobre las actividades y que permitiría cambiar las instalaciones de 
+	desarrollo de las actividades que den conflicto, la hora, la fecha, poder cancelar una actividad si lo requiriese (id historia cancelar), también de cancelar un alquiler de un socio si choca temporalmente. 
+	
+Como administración quiere poder cancelar actividades con cierta flexibilidad para poder borrarlas de la programación
+	Se podrán cancelar actividades a partir de un día concreto, todos los días de un determinado mes, todas las actividades de cierto margen horario, todas las actividades de cierto tipo o todas las actividades que sean 
+	iguales que la solicitada.
+	
+Como administración quiero cerrar instalaciones con cierta flexibilidad para que no se pueda disponer de ellas
+	Se podrá cerrar una instalación tanto indefinidamente, como días de la semana específicos y también se podrá decidir si se quiere cerrar para todos los alquileres y/o para todas las actividades.
+	
+Como administración quiero asignar recursos a las instalaciones para que se añadan a la instalación
+	Se podrá asignar recursos a través del sistema, pudiendo añadir el número y el tipo de recursos que se quieran añadir a la instalación seleccionada.
+	
+Como administración quiero planificar actividades para que los clientes acudan a ellas con cierta flexibilidad
+	Se le ofrecerá a adminstración poder planificar actividades con flexibilidad en cuanto a instalaciones, repetición de días a lo largo de la semana y la hora de cada uno de los alquileres.
+	Administración podrá decidir si quiere planificar una sola actividad en un día o quiere planificar una actividad para que se repita ciertos días de la semana hasta la fecha indicada.
+	También podrá decidir la hora de inicio y la hora de fin de estas actividades, de forma conjunta (Todas empiezan a las 6 y acaban a las 8) o de forma individual.
+	Otra funcionalidad añadida será el poder decidir si estas actividades se harán todas en la misma instalación o la instalación será distinta para cada actividad.
+	
+	
+Como administración quiero planificar una actividad para que esté disponible en un día en específico
+	Se seleccionará una instalación, una fecha (día, mes y año) además de la duración de la actividad (su hora de inicio y su hora de fin) y del límite de plazas.
+
+Como administración quiero planificar una actividad para que esté disponible en varios días de la semana hasta una fecha determinada
+	Se seleccionará una instalación, una fecha de inicio para la repetición de las actividades (día, mes y año), una fecha de final para la repitición (otro día, mes y año)
+	además de la duración de la actividad (su hora de inicio y su hora de fin) y del límite de plazas; además de incluir los días de la semana para los cuales se planificará la actividad.
+
+Como administración quiero planificar una actividad en distintas instalaciones que ocurran siempre a la misma hora para que esté disponible en varios días de la semana hasta una fecha determinada
+	Se seleccionará una fecha de inicio para la repetición de las actividades (día, mes y año), una fecha de final para la repitición (otro día, mes y año)
+	además de la duración de la actividad (su hora de inicio y su hora de fin) y del límite de plazas; además de incluir los días de la semana para los cuales se planificará la actividad. Además se podrá
+	determinar en que instalación ocurrirá la actividad planificada en cada uno de los días de la semana.
+
+Como administración quiero planificar una actividad en distintas instalaciones que ocurran a distintas horas para que esté disponible en varios días de la semana hasta una fecha determinada
+	Se seleccionará una fecha de inicio para la repetición de las actividades (día, mes y año), una fecha de final para la repitición (otro día, mes y año)
+	además de la duración de la actividad, que será variable para cada una de las actividades que se planificarán (cada una con su hora de inicio y hora de fin) y del límite de plazas; 
+	además de incluir los días de la semana para los cuales se planificará la actividad. Además se podrá determinar en que instalación ocurrirá la actividad planificada en cada uno de los días de la semana.
+
+Como administración quiero planificar una actividad en una instalación y que ocurran a distintas horas para que esté disponible en varios días de la semana hasta una fecha determinada
+	Se seleccionará una instalación, una fecha de inicio para la repetición de las actividades (día, mes y año), una fecha de final para la repitición (otro día, mes y año)
+	además de la duración de la actividad, que será variable para cada una de las actividades que se planificarán (cada una con su hora de inicio y hora de fin) y del límite de plazas; además de incluir los 
+	días de la semana para los cuales se planificará la actividad.	
+	
+Como administración quiero poder cancelar actividades planificadas en un día concreto para que no se puedan hacer reservas
+	Se podrán cancelar actividades planificadas a partir de un día concreto.
+	
+Como administración quiero poder cancelar actividades planificadas todos los días de un determinado mes para que no se puedan hacer reservas
+	Se podrán cancelar actividades planificadas todos los días de un determinado mes.
+	
+Como administración quiero poder cancelar actividades planificadas que se encuentren en cierto margen horario para que no se puedan hacer reservas
+	Se podrán cancelar todas las actividades planificadas cuya hora de inicio y hora de fin se vea comprendida por un margen horario determinado por administración
+
+Como administración quiero poder cancelar actividades planificadas con una determinada intensidad para que no se puedan hacer reservas
+	Se podrán cancelar actividades planificadas que tengan la misma intensidad que la definida por administración	
+	
+Como administración quiero poder cancelar actividades planificadas del mismo tipo que una actividad seleccionada para que no se puedan hacer reservas
+	Se podrán cancelar las actividades planificadas cuya actividad sea la misma que la indicada por administración.	
+
+Como administración quiere poder cancelar actividades con cierta flexibilidad para poder borrarlas de la programación
+	Se podrán cancelar actividades a partir de un día concreto, todos los días de un determinado mes, todas las actividades de cierto margen horario, todas las actividades de cierto tipo o todas las actividades que sean 
+	iguales que la solicitada.
+	
+Como administración quiero cerrar instalaciones con cierta flexibilidad para que no se pueda disponer de ellas
+	Se podrá cerrar una instalación tanto indefinidamente, como días de la semana específicos y también se podrá decidir si se quiere cerrar para todos los alquileres y/o para todas las actividades.
+	
+Como administración quiero asignar recursos a las instalaciones para que se añadan a la instalación
+	Se podrá asignar recursos a través del sistema, pudiendo añadir el número y el tipo de recursos que se quieran añadir a la instalación seleccionada.	
+	
+

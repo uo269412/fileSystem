@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rutas>
+    <ruta nombre = "Vía de la plata">
+        <tipo>Mixta (gastronomía, arquitectura, paisajística, diversidad cultural)</tipo>
+        <dificultad>Alta</dificultad>
+        <fechaInicio>1997-07-05</fechaInicio>
+        <horaInicio>1997-07-05T10:00:00</horaInicio>
+        <duracion>P7D</duracion>
+        <agencia>Rumbo</agencia>
+        <descripcion>La Ruta de la Plata o Vía de la Plata comienza en Sevilla, Andalucía, y atraviesa la Península Ibérica horizontalmente para llegar a Santiago de Compostela. Es un recorrido de aproximadamente 960 kilómetros repartidos en 38 etapas. También puedes hacer la Vía de la Plata pasando por Portugal, pero nosotros nos limitaremos al camino que atraviesa el territorio español.</descripcion>
+        <personasAdecuadas>Personas en buena forma física</personasAdecuadas>
+        <lugarInicio>Sevilla</lugarInicio>
+        <direccion>Calle Luis Montoto</direccion>
+        <coordenada>
+            <longitud>-5.975555</longitud>
+            <latitud>37.387209</latitud>
+            <altitud>8</altitud>
+        </coordenada>
+		<recomendacion>9</recomendacion>
+        <referencias> 
+            <enlace>https://es.wikipedia.org/wiki/Camino_de_Santiago_de_la_Plata</enlace> 
+            <enlace>https://www.gronze.com/via-plata</enlace> 
+            <enlace>https://www.caminodesantiago10.com/via-la-plata/#debo-estar-en-forma</enlace> 
+        </referencias>
+        <hitos>
+            <hito nombre = "Llegada a Avenida Reina Sofía en Mérida">
+                <descripcion>Hoy llegamos a la capital de Extremadura. La ciudad, fundada por el emperador Augusto con el nombre de Augusta Emerita, llegó a ser uno de los más importantes asentamientos del Imperio Romano en Hispania; conserva numerosos monumentos de aquella época y un magnífico Museo Nacional de Arte Romano. La etapa es llana, corta y sin servicios intermedios; en la primera mitad avanzamos junto a la N-630 y, más adelante, caminamos por descampado directamente hacia Mérida.</descripcion>
+                <distanciaDesdeAnterior distancia = "208.4" unidades = "km"/>
+                <tiempoDesdeAnterior>2 días</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-6.330050</longitud>
+                    <latitud>38.917607</latitud>
+                    <altitud>196</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/meridaArquitectura.jpg</enlace> 
+                    <enlace>multimedia/meridaPlaza.jpg</enlace> 
+                    <enlace>multimedia/meridaGastro.jpg</enlace> 
+                </galeriaFotos>
+                <galeriaVideos>
+                    <enlace>https://youtu.be/txJvhSTxMxo</enlace>
+                </galeriaVideos>
+            </hito>
+             <hito nombre = "Llegada a Puerta de Zamora en Salamanca">
+                <descripcion>La parte más interesante de la jornada, todavía por bosques y dehesas, son los primeros kilómetros pasado Morille, la única localidad intermedia a pie de camino; luego, a través de extensos descampados, en un recorrido algo monótono, nos vamos acercando poco a poco a la ciudad universitaria de Salamanca, visible en el horizonte. De los muchos monumentos y lugares de interés de Salamanca destacamos: el puente romano sobre el río Tormes (por el cual entramos en el casco antiguo), el edificio histórico de la Universidad, la Catedral Nueva, la Catedral Vieja y la plaza Mayor.</descripcion>
+                <distanciaDesdeAnterior distancia = "289.1" unidades = "km"/>
+                <tiempoDesdeAnterior>3 días</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-5.663568</longitud>
+                    <latitud>40.969984</latitud>
+                    <altitud>809</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/salamancaPlaza.jpg</enlace> 
+                    <enlace>multimedia/salamancaArquitectura.jpg</enlace> 
+                </galeriaFotos>
+                <galeriaVideos>
+                    <enlace>https://youtu.be/dtZ7RPd0fP4</enlace>
+                </galeriaVideos>
+            </hito>
+             <hito nombre = "Llegada a La Catedral de Santa María de Astorga">
+                <descripcion>La etapa, antes plácida y agradable, ha sido profundamente alterada por la construcción de la autovía A-66 en 2016 y 2017. Hoy pasamos junto al embalse de Ricobayo y cerca de las ruinas del despoblado de Castrotorafe; luego, por las pequeñas aldeas de Fontanillas de Castro y Riego del Camino, que cuentan con algún servicio. En Granja de Moreruela encontramos la gran bifurcación de la Vía de la Plata: Hacia el norte, Astorga y el Camino Francés; hacia el noroeste, Sanabria y Ourense.</descripcion>
+                <distanciaDesdeAnterior distancia = "204.1" unidades = "km"/>
+                <tiempoDesdeAnterior>2 días</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-6.056714</longitud>
+                    <latitud>42.458048</latitud>
+                    <altitud>871</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/astorgaArquitectura.jpg</enlace> 
+                    <enlace>multimedia/astorgaGastro.jpg</enlace> 
+                </galeriaFotos>
+                <galeriaVideos>
+                    <enlace>https://youtu.be/F7IxezGDb5o</enlace>
+                </galeriaVideos>
+            </hito>
+        </hitos>
+    </ruta>
+        <ruta nombre = "Camino francés">
+        <tipo>Paisajística (Arquitectura)</tipo>
+        <dificultad>Para expertos</dificultad>
+        <horaInicio>2010-12-07T15:00:00</horaInicio>
+        <duracion>P15DT7H</duracion>
+        <agencia>Logitravel</agencia>
+        <descripcion>El Camino de Santiago es ahora el itinerario más transitado en España para la peregrinación a Santiago de Compostela y surca el norte de la Península hasta el extremo occidental, siendo la ruta troncal a la que van afluyendo, a lo largo de su recorrido, los peregrinos que transitan por otras rutas jacobeas procedentes de diferentes partes de España.</descripcion>
+        <personasAdecuadas>Personas en buena forma física</personasAdecuadas>
+        <lugarInicio>Astorga</lugarInicio>
+        <direccion>Catedral de Santa María</direccion>
+        <coordenada>
+            <longitud>-6.056714</longitud>
+            <latitud>42.458048</latitud>
+            <altitud>871</altitud>
+        </coordenada>
+        <recomendacion>9</recomendacion>
+        <referencias> 
+            <enlace>https://es.wikipedia.org/wiki/Camino_de_Santiago_franc%C3%A9s</enlace> 
+            <enlace>https://www.gronze.com/camino-frances</enlace> 
+            <enlace>https://www.spainismore.es/camino-de-santiago/otros-viajes/recorre-el-camino-frances-y-el-camino-del-norte-en-moto/67</enlace> 
+        </referencias>
+        <hitos>
+            <hito nombre = "Llegada a Triacastela">
+                <descripcion>Primera etapa plenamente gallega, por la Sierra de Ancares; avanzamos básicamente por pistas de tierra, siguiendo el eje de la carretera provincial LU-633. Hasta el Alto do Poio, que alcanzamos en un corto y fuerte repecho, los desniveles son moderados pero frecuentes; luego, hasta Triacastela, la bajada es continua. Los dos primeros tercios de la etapa transcurren por encima de la cota de los 1.200 metros; en invierno las nevadas, la niebla, las ventiscas y las bajas temperaturas son habituales.</descripcion>
+                <distanciaDesdeAnterior distancia = "125.4" unidades = "km"/>
+                <tiempoDesdeAnterior>3 días</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-7.239835</longitud>
+                    <latitud>42.757587</latitud>
+                    <altitud>889</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/triacastelaFuente.jpg</enlace> 
+                    <enlace>multimedia/triacastelaCiudad.jpg</enlace> 
+                </galeriaFotos>
+                <galeriaVideos>
+                    <enlace>https://youtu.be/x1ol6aC9FQ0</enlace>
+                </galeriaVideos>
+            </hito>
+             <hito nombre = "Llegada a Sarria">
+                <descripcion>Por Samos, atravesamos espectaculares bosques de robles y castaños a la vera del río Oribio (o Sarria), regalándonos además la visita al extraordinario Monasterio de Samos.</descripcion>
+                <distanciaDesdeAnterior distancia = "25" unidades = "km"/>
+                <tiempoDesdeAnterior>1 día</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-7.414608</longitud>
+                    <latitud>42.777572</latitud>
+                    <altitud>450</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/sarriaCiudad.jpg</enlace> 
+                    <enlace>multimedia/sarriaArquitectura.jpg</enlace> 
+                </galeriaFotos>
+            </hito>
+             <hito nombre = "Llegada a Santiago de Compostela">
+                <descripcion>A excepción del tramo inicial, caminamos hoy por un territorio sometido a una intensa presión urbanística: aeropuerto, áreas residenciales, autovías, industrias… La etapa no presenta desniveles relevantes; la subida al Monte do Gozo es de pendiente moderada. La emoción, después de tantos kilómetros y algunas dificultades, es intensa, y ya nada puede deslucir nuestra entrada triunfal en la plaza del Obradoiro; la ritual subida por las escaleras de la catedral pondrá punto y final a una vivencia inolvidable. En el ámbito cultural cabe reseñar que el Casco Histórico de Santiago de Compostela es uno de los mejor conservados de Europa; la catedral, que resguarda el sepulcro del apóstol Santiago, es toda ella monumental, destacando el Pórtico de la Gloria, obra maestra del románico español.</descripcion>
+                <distanciaDesdeAnterior distancia = "114.2" unidades = "km"/>
+                <tiempoDesdeAnterior>1 semana</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-8.544172</longitud>
+                    <latitud>42.880222</latitud>
+                    <altitud>266</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/santiagoCiudad.jpg</enlace> 
+                    <enlace>multimedia/santiagoCatedral.jpg</enlace> 
+                    <enlace>multimedia/santiagoPaisaje.jpg</enlace> 
+                </galeriaFotos>
+                <galeriaVideos>
+                    <enlace>https://youtu.be/2nr03MSl7-s</enlace>
+                </galeriaVideos>
+            </hito>
+        </hitos>
+    </ruta>
+        <ruta nombre = "Picos de Europa">
+        <tipo>Paisajística (Naturaleza)</tipo>
+        <dificultad>Media</dificultad>
+        <duracion>P3DT10H</duracion>
+        <agencia>Rumbo</agencia>
+        <descripcion>Los Picos de Europa son un paraíso para los excursionistas, senderistas, amantes de la naturaleza y, por supuesto, para los moteros. Pocas carreteras se benefician de una orografía tan espectacular, plagada de impresionantes picos, cortados, hoces y desfiladeros. Aquí las curvas pueden trazar recorridos aéreos entre montes de un verdor intenso o descender hasta el lecho de un río que serpentea entre paredes verticales de casi un kilómetro de altura. </descripcion>
+        <personasAdecuadas>Moteros experimentados</personasAdecuadas>
+        <lugarInicio>Oviedo</lugarInicio>
+        <direccion>Plaza de Castilla</direccion>
+        <coordenada>
+            <longitud>-5.854372</longitud>
+            <latitud>43.356693</latitud>
+            <altitud>250</altitud>
+        </coordenada>
+        <recomendacion>6</recomendacion>
+        <referencias> 
+            <enlace>https://es.wikipedia.org/wiki/Picos_de_Europa</enlace> 
+            <enlace>https://blog.ciclesortega.com/ruta-moto-picos-europa/</enlace> 
+            <enlace>http://www.moteando.com/una-aproximacion-a-los-picos-de-europa/</enlace> 
+        </referencias>
+        <hitos>
+            <hito nombre = "Llegada a Potes">
+                <descripcion>La ruta comienza en Oviedo, en dirección a Potes, capital de la comarca de Liébana y uno de los focos turísticos más importantes para los que se acercan por primera vez a los Picos de Europa. Si piensas quedarte por la zona más de un día, no es mala idea elegir esta villa medieval como campamento, pues tiene accesos fáciles y mucha oferta de ocio y restauración.</descripcion>
+                <distanciaDesdeAnterior distancia = "145" unidades = "km"/>
+                <tiempoDesdeAnterior>1 día</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-4.620209</longitud>
+                    <latitud>43.154825</latitud>
+                    <altitud>478</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/potesPaisaje.jpg</enlace> 
+                    <enlace>multimedia/potesMontaña.jpg</enlace> 
+                </galeriaFotos>
+            </hito>
+             <hito nombre = "Llegada a Puerto de San Glorio">
+                <descripcion>Sin duda, uno de los puertos de montaña más atractivos de la península. Lo tiene todo: curvas amplias y numerosas, asfalto impecable, anchura generosa, vistas y miradores a parajes que te absorben por su belleza. </descripcion>
+                <distanciaDesdeAnterior distancia = "23.8" unidades = "km"/>
+                <tiempoDesdeAnterior>1 hora</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-4.765913</longitud>
+                    <latitud>43.066907</latitud>
+                    <altitud>1722</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/puertoEstatua.jpg</enlace> 
+                    <enlace>multimedia/puertoCarretera.jpg</enlace> 
+                </galeriaFotos>
+            </hito>
+             <hito nombre = "Llegada a Riaño">
+                <descripcion>Impresionante y el estado del firme deja mucho que desear después de lo recorrido con anterioridad. Pero esta carretera merece mucho la pena, porque Riaño es un pueblo con mucho encanto, enclavado en mitad del Embalse de Riaño y con los Picos de Europa como telón de fondo. </descripcion>
+                <distanciaDesdeAnterior distancia = "28.3" unidades = "km"/>
+                <tiempoDesdeAnterior>1 hora</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-5.008980</longitud>
+                    <latitud>42.975707</latitud>
+                    <altitud>1392</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/riañoPaisaje.jpg</enlace> 
+                    <enlace>multimedia/riañoMontañas.jpg</enlace> 
+                </galeriaFotos>
+                <galeriaVideos>
+                    <enlace>https://youtu.be/txJvhSTxMxo</enlace>
+                </galeriaVideos>
+            </hito>
+             <hito nombre = "Llegada a Cangas de Onís">
+                <descripcion>Es interesante destacar que sumergido en el embalse se encuentra el Viejo Riaño, población original que fue anegada en 1987 junto a siete pueblos más cuando se construyó el embalse sobre el Valle de Riaño. Aunque actualmente el embalse favorece la promoción turística de la zona, supuso un trauma importante para la sociedad riañesa, especialmente al afectar a uno de sus principales y más estimados recursos: las truchas, apreciadas internacionalmente.</descripcion>
+                <distanciaDesdeAnterior distancia = "63.9" unidades = "km"/>
+                <tiempoDesdeAnterior>1 día</tiempoDesdeAnterior>
+                <coordenada>
+                    <longitud>-5.130859</longitud>
+                    <latitud>43.350063</latitud>
+                    <altitud>130</altitud>
+                </coordenada>
+                <galeriaFotos>
+                    <enlace>multimedia/cangasCiudad.jpg</enlace> 
+                    <enlace>multimedia/cangasPuente.jpg</enlace> 
+                </galeriaFotos>
+            </hito>
+        </hitos>
+    </ruta>
+</rutas>

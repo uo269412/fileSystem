@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Cargando ficheros en local</title>
+        <link rel="stylesheet" type="text/css" href="Ejercicio12.css" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="Ejercicio12.js"></script>
+    </head>
+    <body onload="lectorArchivos.calcularTamañoArchivos();">
+        <h1>Cargador ficheros</h1>
+        <section>
+            <h2>Sube varios archivos</h2>
+                <p>API File: Selecionar varios archivos de la máquina cliente</p>
+                <p><input id="variosArchivos" type="file" name="Archivos" onchange="lectorArchivos.calcularTamañoArchivos();" multiple=""></p>
+                <p>Archivos seleccionados: <span id="numero">0</span></p>
+                <p>Tamaño total: <span id="tamaño">0 bytes</span></p>
+                <span id="nombres"></span>
+        </section>
+        <section>
+            <h2>Sube un solo archivo</h2>
+            <p>API File: Selecionar un solo archivo de la máquina cliente</p>
+            <input type="file" id="subirArchivos" onchange="lectorArchivos.leerArchivoTexto(this.files);">
+            <p id="errorLectura"></p> 
+            <p id="nombreArchivo"></p>
+            <p id="tamañoArchivo"></p>
+            <p id="tipoArchivo"></p>
+            <p id="ultimaModificacion"></p>
+            <p id="contenidoArchivo"></p>  
+            <pre id="areaTexto"></pre>
+        </section>  
+    </body>
+</html>
