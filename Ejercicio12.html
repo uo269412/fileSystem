@@ -12,7 +12,7 @@
         <section>
             <h2>Sube varios archivos</h2>
                 <p>API File: Selecionar varios archivos de la máquina cliente</p>
-                <p><input id="variosArchivos" type="file" name="Archivos" onchange="lectorArchivos.calcularTamañoArchivos();" multiple=""></p>
+                <p><input id="variosArchivos" type="file" value = "" name="Archivos" onchange="lectorArchivos.calcularTamañoArchivos();" multiple=""></p>
                 <p>Archivos seleccionados: <span id="numero">0</span></p>
                 <p>Tamaño total: <span id="tamaño">0 bytes</span></p>
                 <span id="nombres"></span>
@@ -20,7 +20,7 @@
         <section>
             <h2>Sube un solo archivo</h2>
             <p>API File: Selecionar un solo archivo de la máquina cliente</p>
-            <input type="file" id="subirArchivos" onchange="lectorArchivos.leerArchivoTexto(this.files);">
+            <input type="file" value = "" id="subirArchivos" onchange="lectorArchivos.leerArchivoTexto(this.files);">
             <p id="errorLectura">Aquí aparecerá información sobre los errores</p> 
             <p id="nombreArchivo">Aquí aparecerá el nombre del archivo</p>
             <p id="tamañoArchivo">Aquí aparecerá el tamaño del archivo</p>
